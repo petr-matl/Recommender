@@ -1,0 +1,5 @@
+# Build and binary
+*__pycache__/
+*build/
+*dist/
+*.*/
